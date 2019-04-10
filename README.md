@@ -2,4 +2,4 @@
 
 ![c.png](https://github.com/ZJ69719496/AndroidControl/blob/master/c.png)  
 
-![d.png](https://github.com/ZJ69719496/AndroidControl/blob/master/d.JPG)  
+![d.jpg](https://github.com/ZJ69719496/AndroidControl/blob/master/d.jpg)  
